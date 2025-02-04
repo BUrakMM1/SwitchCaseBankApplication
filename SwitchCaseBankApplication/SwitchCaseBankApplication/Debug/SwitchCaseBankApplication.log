@@ -1,0 +1,4 @@
+﻿  SwitchCaseBankApplication.cpp
+C:\Users\Burak Mert Metin\source\if-else\SwitchCaseBankApplication\SwitchCaseBankApplication\SwitchCaseBankApplication.cpp(8,21): warning C4305: 'başlatılıyor': '__int64' iken 'int' olarak kesildi
+C:\Users\Burak Mert Metin\source\if-else\SwitchCaseBankApplication\SwitchCaseBankApplication\SwitchCaseBankApplication.cpp(8,11): warning C4309: 'başlatılıyor': sabit değer kesildi
+C:\Users\Burak Mert Metin\source\if-else\SwitchCaseBankApplication\SwitchCaseBankApplication\SwitchCaseBankApplication.cpp(16): error C4700: başlatılmamış yerel değişken 'islem' kullanıldı
